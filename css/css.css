@@ -1,0 +1,16 @@
+body {
+  background: #999;
+}
+a {
+  display: inline-block;
+  margin: 20px;
+  text-align: center;
+}
+
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: yellow;
+}
